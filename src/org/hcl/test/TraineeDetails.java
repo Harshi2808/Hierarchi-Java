@@ -3,7 +3,10 @@ package org.hcl.test;
 public class TraineeDetails {
 public void batchOne() {
 	System.out.println("training started on Sep");
+
 	System.out.println("training started");
+	System.out.println("training started on Nov");
+
 }
 public void batchTwo() {
 	System.out.println("training started on Oct");
